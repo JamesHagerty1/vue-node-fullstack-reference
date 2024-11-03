@@ -4,7 +4,7 @@ I started a new project with 'npm create vue@latest' where I got to choose some
 things to start out with: I'm using Vue router, Pinia, Vitest, and Playwright.
 
 After you create a new app, the first things you do are:
-'cd project_folder', 'npm install', 'npm run dev'
+'cd vue_project_folder', 'npm install', 'npm run dev'
 
 
 
