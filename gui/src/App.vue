@@ -3,7 +3,12 @@
 </script>
 
 <template>
-  <div>Hello!</div>
+  <div
+    :style="{ backgroundColor: 'green',
+              fontSize: '32px',}"
+  >
+    Hello!
+  </div>
 </template>
 
 <style scoped>
