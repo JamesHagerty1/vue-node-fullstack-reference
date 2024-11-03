@@ -5,7 +5,7 @@
 <template>
   <div
     :style="{ backgroundColor: 'green',
-              fontSize: '32px',}"
+              fontSize: '32px' }"
   >
     Hello!
   </div>
