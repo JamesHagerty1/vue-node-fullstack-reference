@@ -4,8 +4,8 @@
 
 <template>
   <div
-    :style="{ backgroundColor: 'green',
-              fontSize: '32px' }"
+    :style="{ 'background-color': 'green',
+              'font-size': '32px' }"
   >
     Hello!
   </div>
