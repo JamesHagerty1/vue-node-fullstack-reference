@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <div
     :style="{ 'background-color': 'green',
@@ -14,3 +10,7 @@
 <style scoped>
 
 </style>
+
+<script setup>
+
+</script>
