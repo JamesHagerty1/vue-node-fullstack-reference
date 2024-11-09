@@ -7,6 +7,12 @@ After you create a new app, the first things you do are:
 'cd vue_project_folder', 'npm install', 'npm run dev'
 
 
+# Future goals:
+
+Narrow down a subset of CSS and capture it in JS objects that Vue's style
+attributes can use. And I'll get to choose the names for styles.
+
+
 
 # Vue-provided notes:
 
